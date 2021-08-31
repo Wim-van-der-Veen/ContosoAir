@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/WimvanderVeen/contosoAir/_apis/build/status/Wim-van-der-Veen.ContosoAir?branchName=master)](https://dev.azure.com/wimveen/contosoAir/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/WimvanderVeen/contosoAir/_apis/build/status/Wim-van-der-Veen.ContosoAir?branchName=master)](https://dev.azure.com/WimvanderVeen/contosoAir/_build/latest?definitionId=1&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
